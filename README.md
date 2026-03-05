@@ -8,9 +8,10 @@ This repository follows the [Agent Skills Specification](https://agentskills.io/
 
 See [skills/README.md](skills/README.md) for the current catalog.
 
-Current published skill:
+Current published skills:
 
 - `$ow-workshop-loops`: design and review safe loop logic (`Rule Loop`, `While`, `For`) with server-load safeguards.
+- `$ow-workshop-server-stability`: audit and remediate startup crashes, load spikes, and high-frequency event pressure in Workshop rules.
 
 ## How To Use
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "OW Server Stability"
+  short_description: "Remediate Workshop load and crash risks"
+  default_prompt: "Use $ow-workshop-server-stability to audit Workshop rules for startup crashes, load spikes, and loop/event performance risks, then propose the minimum safe remediation set."

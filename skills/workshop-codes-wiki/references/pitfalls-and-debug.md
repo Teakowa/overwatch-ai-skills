@@ -70,6 +70,6 @@ Remediation:
 - Use fallback protections only as temporary safety net, not root fix.
 
 ## Reference Links
-- Stability guidance: https://workshop.codes/wiki/articles/improve-your-codes-server-stability
-- Loop guidance: https://workshop.codes/wiki/articles/how-to-use-loops
-- Wiki index: https://workshop.codes/wiki/articles
+- Stability guidance: https://md.owbastion.codes/wiki/articles/help-my-server-is-crashing-a-guide-on-how-to-improve-server-stability-for-your-codes.md
+- Loop guidance: https://md.owbastion.codes/wiki/articles/how-to-use-loops.md
+- Wiki index (md mirror): https://md.owbastion.codes/wiki/articles.md

@@ -4,8 +4,8 @@ Use this file as the primary navigation map for workshop.codes and md.owbastion.
 
 ## Core Entrypoints
 - workshop.codes wiki root: https://workshop.codes/wiki
-- workshop.codes articles index: https://workshop.codes/wiki/articles
-- workshop.codes docs root (legacy-style nav): https://workshop.codes
+- workshop.codes articles index (md mirror): https://md.owbastion.codes/wiki/articles.md
+- workshop.codes articles index (fallback): https://workshop.codes/wiki/articles
 - md.owbastion.codes root: https://md.owbastion.codes
 
 ## Domain Routing
@@ -14,14 +14,14 @@ Use this file as the primary navigation map for workshop.codes and md.owbastion.
 Use for: action semantics, control flow correctness, and execution order.
 
 High-priority pages:
-- Loop: https://workshop.codes/wiki/articles/loop
-- Loop If: https://workshop.codes/wiki/articles/loop+if
-- Loop If Condition Is True: https://workshop.codes/wiki/articles/loop+if+condition+is+true
-- Loop If Condition Is False: https://workshop.codes/wiki/articles/loop+if+condition+is+false
-- While: https://workshop.codes/wiki/articles/while
-- End: https://workshop.codes/wiki/articles/end
-- Wait: https://workshop.codes/wiki/articles/wait
-- If / Else / End If group: https://workshop.codes/wiki/articles
+- Loop: https://md.owbastion.codes/wiki/articles/loop.md
+- Loop If: https://md.owbastion.codes/wiki/articles/loop+if.md
+- Loop If Condition Is True: https://md.owbastion.codes/wiki/articles/loop+if+condition+is+true.md
+- Loop If Condition Is False: https://md.owbastion.codes/wiki/articles/loop+if+condition+is+false.md
+- While: https://md.owbastion.codes/wiki/articles/while.md
+- End: https://md.owbastion.codes/wiki/articles/end.md
+- Wait: https://md.owbastion.codes/wiki/articles/wait.md
+- If / Else / End If group (index): https://md.owbastion.codes/wiki/articles.md
 
 ### 2) Events and Rule Context
 Use for: trigger selection, per-player/global behavior, event pressure.
@@ -61,8 +61,8 @@ Idioms to apply:
 Use for: server-load spikes, crash risk, and lobby-scale instability.
 
 Priority references:
-- Improve server stability: https://workshop.codes/wiki/articles/improve-your-codes-server-stability
-- How to use loops: https://workshop.codes/wiki/articles/how-to-use-loops
+- Improve server stability: https://md.owbastion.codes/wiki/articles/help-my-server-is-crashing-a-guide-on-how-to-improve-server-stability-for-your-codes.md
+- How to use loops: https://md.owbastion.codes/wiki/articles/how-to-use-loops.md
 
 ## Suggested Lookup Sequence
 1. Identify object type in user question: action, value, event, or architecture issue.

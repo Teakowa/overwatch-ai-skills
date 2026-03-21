@@ -103,5 +103,5 @@ Translation checklist:
 
 ## Source Anchors
 - workshop.codes root: https://workshop.codes
-- workshop.codes wiki index: https://workshop.codes/wiki/articles
+- workshop.codes wiki index (md mirror): https://md.owbastion.codes/wiki/articles.md
 - md.owbastion.codes root: https://md.owbastion.codes

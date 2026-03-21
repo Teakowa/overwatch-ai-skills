@@ -60,5 +60,5 @@ When terms conflict, mirror user wording once, then normalize to one vocabulary 
 
 ## Source Links
 - workshop.codes wiki root: https://workshop.codes/wiki
-- workshop.codes article index: https://workshop.codes/wiki/articles
+- workshop.codes article index (md mirror): https://md.owbastion.codes/wiki/articles.md
 - md.owbastion.codes: https://md.owbastion.codes

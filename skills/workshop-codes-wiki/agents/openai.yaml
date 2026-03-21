@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workshop.Codes Wiki"
+  short_description: "Wiki support for OW Workshop, OverPy, and OSTW"
+  default_prompt: "Use $workshop-codes-wiki to answer Workshop/OverPy/OSTW questions with source-backed guidance from workshop.codes and md.owbastion.codes."
